@@ -1,7 +1,7 @@
 # python-urban
 
 ## О работе
-- https://colab.research.google.com/drive/1A7iuZh1_kGGqSSTMIGZwXFZmOmAkAHK7?usp=sharing
+- https://colab.research.google.com/drive/1HI5eoQifZng8VVYCy8nfE9MArHCC-wdj?usp=sharing
 - https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/74vqnyzk4242u0z/keplergl_7eh2ozm.json
 
 ## Описание

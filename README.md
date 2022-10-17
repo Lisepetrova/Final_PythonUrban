@@ -1,7 +1,7 @@
 # python-urban
 
 ## О работе
-- 
+- https://colab.research.google.com/drive/1A7iuZh1_kGGqSSTMIGZwXFZmOmAkAHK7?usp=sharing
 - 
 
 ## Описание
